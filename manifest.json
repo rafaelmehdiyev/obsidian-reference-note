@@ -1,0 +1,10 @@
+{
+	"id": "reference-note",
+	"name": "Reference Note",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Create new notes by cloning properties from any existing note.",
+	"author": "Rafael Mehdiyev",
+	"authorUrl": "https://github.com/rafaelmehdiyev",
+	"isDesktopOnly": false
+}
